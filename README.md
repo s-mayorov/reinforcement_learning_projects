@@ -1,7 +1,7 @@
 ## Exercises from Maxim Lapan book
 
-Book: (Deep Reinforcement Learning Hands-On: Apply modern RL methods, with deep Q-networks, value iteration, policy gradients, TRPO, AlphaGo Zero and more)[https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks-ebook/dp/B076H9VQH6]
-(Github)[https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition]
+Book: [Deep Reinforcement Learning Hands-On: Apply modern RL methods, with deep Q-networks, value iteration, policy gradients, TRPO, AlphaGo Zero and more](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks-ebook/dp/B076H9VQH6) |
+[Github](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition)
 
 - [OpenAI Gym basics](lapan/ch2)
 - [DL with Pytorch (GAN on Atari)](lapan/ch3)
