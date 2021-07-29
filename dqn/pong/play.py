@@ -3,15 +3,11 @@ import collections
 import time
 
 import torch
-import torch.nn as nn
-import torch.optim as optim
 import numpy as np
 import gym.wrappers
 
 from wrappers import make_env
-from model import DQN
-from tensorboardX import SummaryWriter
-
+from gym_experiments.dqn.model import DQN
 
 DEFAULT_ENV_NAME = "PongNoFrameskip-v4"
 FPS = 25
